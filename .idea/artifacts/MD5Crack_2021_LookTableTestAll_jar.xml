@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MD5Crack-2021-LookTableTestAll:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MD5Crack_2021_LookTableTestAll_jar</output-path>
+    <root id="archive" name="MD5Crack-2021.jar">
+      <element id="module-output" name="MD5Crack-2021" />
+    </root>
+  </artifact>
+</component>

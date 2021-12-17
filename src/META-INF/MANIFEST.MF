@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: MD5Crack.MD5RainBowTableCrackTest
+
